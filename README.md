@@ -5,7 +5,7 @@
 
 I'm a full-stack developer and automation enthusiast with a focus on practical tools that improve workflows, simplify deployment, and enhance system visibility.
 
-I build and ship apps using modern technologies like **React**, **Flask**, and **TypeScript**, and specialize in **automation** with **Python**, including API integrations and Telegram bots. I also streamline development environments and CI/CD pipelines using **Docker**, **GitHub Actions**, and **OpenVPN**.
+I build and ship apps using modern technologies like Django, Laravel, and specialize in automation with Python, including API integrations and Telegram bots., including API integrations and Telegram bots. I also streamline development environments and CI/CD pipelines using **Docker**, **GitHub Actions**, and **OpenVPN**.
 
 ---
 
