@@ -3,42 +3,61 @@
 
 # 👋 Hi, I'm Sltnsyh
 
-I'm a passionate developer building full-stack applications and automation tools to solve real-world problems. I work with technologies like **React**, **Flask**, **Python**, **TypeScript**, and **OpenAI APIs**.
+I'm a full-stack developer and automation enthusiast with a focus on practical tools that improve workflows, simplify deployment, and enhance system visibility.
 
-## 🚀 Projects
+I build and ship apps using modern technologies like **React**, **Flask**, and **TypeScript**, and specialize in **automation** with **Python**, including API integrations and Telegram bots. I also streamline development environments and CI/CD pipelines using **Docker**, **GitHub Actions**, and **OpenVPN**.
 
-### 🌐 [Filmate AI](https://www.filmate.club)
-Semantic search & movie recommendation system using GPT-3.5 Turbo, Qdrant, Flask, and React.
-
-### 🧠 Project Ekosistem
-A unified internal tools platform that improves collaboration and data visibility across departments.
-
-### 🤖 Telegram Bots
-- **ATM/CRM Auto Report**: Automates performance reporting of ATM/CRM networks.
-- **Human Capital Bot**: Tracks report submissions and sends scheduled reminders.
-- **Jarkom Bot**: Notifies real-time network alerts to operational teams.
-
-Check out my full portfolio here: 👉 [sltnsyh.github.io/portofolio](https://sltnsyh.github.io/portofolio)
+---
 
 ## 🧰 Tech Stack
 
+### 💻 Development
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
+
+### 🧮 Databases & APIs
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
+
+### 🚀 DevOps & Deployment
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![WinSCP](https://img.shields.io/badge/-WinSCP-05122A?style=flat&logo=winscp)
+![OpenVPN](https://img.shields.io/badge/-OpenVPN-05122A?style=flat&logo=openvpn)
+
+### ⚙️ Automation
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
+![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)
+![Telegram Bot](https://img.shields.io/badge/-TelegramBot-05122A?style=flat&logo=telegram)
+![PyInstaller](https://img.shields.io/badge/-PyInstaller-05122A?style=flat)
+![Py2exe](https://img.shields.io/badge/-Py2exe-05122A?style=flat)
+
+
+---
 
 ## 📊 GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sltnsyh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
-
-## 📫 Contact Me
+## 📫 Contact
 
 [![Email](https://img.shields.io/badge/-dss283pro@gmail.com-white?style=flat&logo=gmail)](mailto:dss283pro@gmail.com)
 
 ---
 
-_Thanks for visiting! 🚀_
+_Thanks for visiting!_
+
