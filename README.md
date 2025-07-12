@@ -47,11 +47,7 @@ I build and ship apps using modern technologies like Django, Laravel, and specia
 
 ---
 
-## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sltnsyh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ## 📫 Contact
 
